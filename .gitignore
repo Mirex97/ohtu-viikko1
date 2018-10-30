@@ -82,6 +82,8 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
+.gradle
+.nb-gradle
 .env
 .venv
 env/
