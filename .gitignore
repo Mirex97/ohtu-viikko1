@@ -84,6 +84,7 @@ celerybeat-schedule
 # Environments
 .gradle
 .nb-gradle
+gradle.properties
 .env
 .venv
 env/
