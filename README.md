@@ -1,4 +1,4 @@
-# Ohtu-viikko1
+# Ohtu-palautusrepositorio
 
 [![Build Status](https://travis-ci.org/Mirex97/ohtu-viikko1.svg?branch=master)](https://travis-ci.org/Mirex97/ohtu-viikko1)
 [![codecov](https://codecov.io/gh/Mirex97/ohtu-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/Mirex97/ohtu-viikko1)
